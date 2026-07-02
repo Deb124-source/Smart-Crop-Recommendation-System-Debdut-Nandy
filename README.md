@@ -63,6 +63,8 @@ AgriSense-AI/
 ├── features.json
 ├── requirements.txt
 └── README.md
+└── power bi dashboard
+└── dashboard image
 ```
 
 ## Technologies Used
