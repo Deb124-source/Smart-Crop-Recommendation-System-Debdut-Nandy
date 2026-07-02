@@ -10,7 +10,7 @@ import json
 
 st.set_page_config(
 
-page_title="Crop Recommendation AI",
+page_title="AgriSense AI",
 
 page_icon="",
 
